@@ -1,0 +1,8 @@
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = [
+    "prices_01/tests",
+    "pathways_02/tests",
+    "scores_03/tests",
+    "stations_04/tests",
+]
